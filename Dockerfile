@@ -12,6 +12,8 @@ RUN apk -v --update add \
     musl-dev \
     openssl \
     go \
+    python \
+    py-pip \
     rm -f /var/cache/apk/*
 
 
