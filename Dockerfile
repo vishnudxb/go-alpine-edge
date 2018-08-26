@@ -14,6 +14,7 @@ RUN apk -v --update add \
     go \
     python \
     py-pip \
+    feh \
     rm -f /var/cache/apk/*
 
 
